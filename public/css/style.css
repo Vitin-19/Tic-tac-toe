@@ -1,0 +1,85 @@
+html, body{
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+}
+main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid rgb(6, 69, 243);
+    font-family: Arial;
+    
+}
+.turn{
+    position: fixed;
+    bottom: 77%;
+    font-family: Arial;
+    text-align: center;
+}
+table{
+    position: fixed;
+    bottom: 15%;
+    height: 60%;
+    width: 60%;
+}
+td, tr{
+    border: 7px solid rgb(6, 69, 243);
+}
+.top{
+    border-top: transparent;
+}
+.bottom{
+    border-bottom: transparent;
+}
+.left{
+    border-left: transparent;
+}
+.right{
+    border-right: transparent;
+}
+.middle{
+    height: 33%;
+}
+.Top{
+    height: 33%;
+}
+.Bottom{
+    height: 33%;
+}
+.Top td{
+    width: 33%;
+}
+.Bottom td{
+    width: 33%;
+}
+td{
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+td:hover{
+    background-color: rgb(180, 178, 178);
+}
+#win{
+    color: red;
+}
+img{
+    width: 90px;
+    height: 90px;
+}
+#restart{
+    background-color: white;
+    border-radius: 30px;
+    border: 4px solid rgb(6, 69, 243);
+    height: 20%;
+    font-family: Arial;
+}
