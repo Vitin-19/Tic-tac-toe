@@ -2,7 +2,7 @@
 A tic tac toe to play alone or with your friends.<br>
 You can play tic tac toe with two players or alone with an AI.
 
-Tecnologies used:<br>
+Technologies used:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>HTML5<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>CSS3<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>Javascript<br>
