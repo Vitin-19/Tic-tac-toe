@@ -10,7 +10,7 @@ Technologies used:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>Python<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50"/>Flask<br>
 
-To execute it, you need to execute the comand execute the the comand "npm start" on the prompt after selecting the directory that is located the project. If you want to play with alone, you need to execute the "app.py" file. 
+To execute it, you need to execute the comand execute the the comand "npm start" on the prompt after selecting the directory that is located the project. If you want to play alone, you need to execute the "app.py" file. 
 
 NOTE: <br>
 This project was created for study and portfolio purposes only. Its use, modification and redistribution are not allowed without authorization.<br>
